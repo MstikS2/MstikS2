@@ -9,6 +9,7 @@ I'm 21 y. o. Python 🐍 programmer, addicted to research and creativity
 - Rest API
 - Git and GitHub
 - SQLite and PostgreSQL
+- Docker
 
 #### My personal skills:
 - Organized
